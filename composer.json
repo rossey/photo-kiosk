@@ -1,0 +1,11 @@
+{
+    "require": {
+        "silex/silex": "^1.3",
+        "twig/twig": "^1.18"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhotoKiosk\\": "src/"
+        }
+    }
+}
